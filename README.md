@@ -8,7 +8,6 @@
 
 <p align="center">
   🎓 Final Year B.Tech CSE @ MVIT, Puducherry <br>
-  💡 AI in Healthcare | Full Stack Developer | Design Geek <br>
   🌐 <a href="https://adithn.vercel.app/">Visit My Portfolio</a>
 </p>
 
@@ -35,9 +34,14 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adithn04&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adithn04&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=adithn04&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithn04&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </p>
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img alt="Adithyan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=adithn04&bg_color=1a1b27&color=8be9fd&line=50fa7b&point=f8f8f2&hide_border=true"/>
+</a>
+
 
 ---
 
