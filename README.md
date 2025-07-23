@@ -88,9 +88,8 @@
 
 ---
 
-## 📄 Resume
-
-📌 Download my Resume: [Click Here]([https://your-resume-link.com](https://bit.ly/40AkfcR))
+📄 Click here to download my resume
+<a href="https://drive.google.com/uc?export=download&id=1GEP1pMt_qzEfJQVQNUj6OSaIASOqSUdG" target="_blank"> Click Here</a>
 
 ---
 
@@ -99,7 +98,7 @@
 - 🎬 Image & Video editing  
 - 🧑‍🏫 Drawing & Designing
 - 🧠 Exploring new technologies  
-- 🏏 Chess + 🕹️ Gaming enthusiast
+- ♔ Chess + 🕹️ Gaming enthusiast
 
 ---
 
