@@ -93,7 +93,7 @@
 ---
 
 📄 Click here to download my resume
-<a href="https://drive.google.com/uc?export=download&id=1GEP1pMt_qzEfJQVQNUj6OSaIASOqSUdG" target="_blank"> Click Here</a>
+<a href="https://drive.google.com/file/d/13b0za3TtzvruVTyHSWUKZi8oYP50MWtA/view?usp=sharing" target="_blank"> Click Here</a>
 
 ---
 
