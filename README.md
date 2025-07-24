@@ -17,7 +17,7 @@
 
 - 🔬 Building an **Esophageal Cancer Detection System** (clinical + imaging)
 - 💓 Creating an **AI-based Heart Health Monitor** (Arrhythmia + Hypertension)
-- 💡Develop a user-centric, responsive web pages that combine modern UI/UX principles with robust frontend logic to deliver seamless digital experiences.
+- 💡Develop **user-centric**, responsive web pages that contain seamless **digital experiences**.
 - 🌐 Developing a **SEO Analyzer Web App** using Flask & Cohere API
 - ✨ Passionate about creating clean and interactive **UI/UX designs**
 
