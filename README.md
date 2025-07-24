@@ -102,7 +102,7 @@
 - 🎬 Image & Video editing  
 - 🧑‍🏫 Drawing & Designing
 - 🧠 Exploring new technologies  
-- ♔ Chess + 🕹️ Gaming enthusiast
+- 🕹️ Chess and badminton
 
 ---
 
