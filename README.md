@@ -38,7 +38,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithn04&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </p>
 
-<a href="https://github.com/adithn04/github-readme-activity-graph">
+<a>
   <img alt="Adithyan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=adithn04&bg_color=1a1b27&color=8be9fd&line=50fa7b&point=f8f8f2&hide_border=true"/>
 </a>
 
