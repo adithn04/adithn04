@@ -97,15 +97,6 @@
 
 ---
 
-## 🧘‍♂️ Hobbies & Interests
-
-- 🎬 Image & Video editing  
-- 🧑‍🏫 Drawing & Designing
-- 🧠 Exploring new technologies  
-- 🕹️ Chess and badminton
-
----
-
 ## 🤝 Let's Connect
 
 <p align="center">
