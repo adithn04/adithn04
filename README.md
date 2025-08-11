@@ -8,7 +8,7 @@
 
 <p align="center">
   🎓 Final Year B.Tech CSE @ MVIT, Puducherry <br>
-  🌐 <a href="https://adithn.vercel.app/">Visit My Portfolio</a>
+  🌐 <a href="https://adithyanv.vercel.app/">Visit My Portfolio</a>
 </p>
 
 ---
