@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm <span style="color:#00f7ff;">V. Adithyan</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Enthusiast+%7C+Web+Developer+%7C+UI%2FUX+Designer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Enthusiast+%7C+Web+Developer+%7C+Data+Analyst" alt="Typing SVG" />
 </p>
 
 
@@ -102,7 +102,7 @@
 <p align="center">
   <a href="mailto:adithyan1912@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/adithyan-v-54289a258/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://adithn.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://adithyanv.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
