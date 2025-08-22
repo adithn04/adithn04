@@ -50,7 +50,7 @@
 - 🧬 **Esophageal Cancer AI** — *Early diagnosis using Deep Learning*
 - ⚕️ **Heart Health Prediction** — *Real-time alerts with CNN & clinical data*
 - 🌐 **SEO Analyzer** — *AI-powered keyword + readability assessment*
-- 💼 **Portfolio Website** — [adithn.vercel.app](https://adithyanv.vercel.app/)
+- 💼 **Portfolio Website** — [adithyanv.vercel.app](https://adithyanv.vercel.app/)
 
 ---
 
